@@ -40,49 +40,43 @@ collab-with-us/
 
 ## 👩‍💻 How to Contribute
 
-1.  **Fork** this repository
-2.  **Clone** your fork
-    ```bash
-    git clone https://github.com/your-username/collab-with-us.git
-    ```
-3.  Create a new branch for your contribution
-    ```bash
-    git checkout -b feature-your-project-name
-    ```
-4.  Add your project proposal in `/PROJECTS/`
-      * Copy the `example_project.md` template
-      * Fill in your details (Problem, Tech Stack, Team, Outcomes)
-5.  Commit and push
-    ```bash
-    git add .
-    git commit -m "Added new project proposal: <project-name>"
-    git push origin feature-your-project-name
-    ```
-6.  Open a Pull Request
-      * Go to your fork → Compare & pull request
-      * Wait for review from the SIGAI Tech Leads 👩‍🏫
+1. We use GitHub Issues to track all new project proposals. It's the simplest way to get your idea on our board.
+2. Go to the [Issues] tab at the top of this repository.
+3. Click the "New issue" button.
+4. Choose the "Project Proposal" template and click "Get started."
+5. Fill in the template with your project details (Problem, Tech Stack, Team Members Needed, etc.).
+6. Click "Submit new issue".
+7. Your idea is now on the board for others to see and discuss!
+
+_Please note: This repository is a community board and may not be monitored daily by tech leads. The goal is to connect students with each other._
 
 -----
 
 ## 🧠 Project Domains
 
-Explore and propose projects in domains such as:
+We encourage proposals in (but not limited to) these domains:
 
-  - 🤖 **Machine Learning & Deep Learning**
-  - 🧬 **Generative AI** (LLMs, Diffusion, Prompt Engineering)
-  - 🌐 **Web + AI Fusion** (chatbots, recommendation engines, RAG systems)
-  - ☁️ **Cloud + AI** (AWS, GCP, Azure integrations)
-  - 🛰️ **Edge AI & IoT Intelligence**
-  - 🧮 **Data Science, Analytics, and Visualization**
-  - 🕹️ **AI in Games / AR / VR / Robotics**
+### 🤖 Machine Learning & Deep Learning
+
+### 🧬 Generative AI (LLMs, Diffusion, Prompt Engineering)
+
+### 🌐 Web + AI Fusion (chatbots, recommendation engines, RAG systems)
+
+### ☁️ Cloud + AI (AWS, GCP, Azure integrations)
+
+### 🛰️ Edge AI & IoT Intelligence
+
+### 🧮 Data Science, Analytics, and Visualization
+
+### 🕹️ AI in Games / AR / VR / Robotics
 
 -----
 
 ## 🏅 Recognition
 
-Contributors are featured in our **SIGAI Hall of Fame** 🏆
-Earn GitHub badges and event certificates for impactful contributions.
+Outstanding projects that are successfully developed and presented by students may be featured on our official RAIT ACM SIGAI social media channels and website.
 
+Recognition is based on the completed project, not just the proposal here.
 -----
 
 ## 🧭 Code of Conduct
