@@ -1,107 +1,102 @@
 <img src="assets/sigai-logo.png" align="right" width="120" />
 
-# 🤝 Collab With Us — RAIT ACM SIGAI STUDENT CHAPTER
+# 🤝 Collab With Us — RAIT ACM SIGAI
 
-Welcome to **Collab With Us**, the official collaboration hub of **RAIT ACM SIGAI STUDENT CHAPTER**\!
+Welcome to **Collab With Us**, the community-run collaboration space for **RAIT ACM SIGAI**!
 This repository is where **students, innovators, and AI enthusiasts** from RAIT can share, build, and contribute to open projects in **AI, ML, and tech-driven innovation**.
 
 > 💡 “The best way to learn AI is to build AI — together.”
 
------
+---
 
 ## 🚀 Purpose
 
 This repository serves as a **central space** for:
 
-  - Student-led projects and research initiatives.
-  - AI/ML and tech-oriented collaborations under **RAIT ACM SIGAI STUDENT CHAPTER**.
-  - Cross-disciplinary teamwork — combining **AI + Web + IoT + Data + Creativity**.
-  - Open-source contributions and mentoring.
+-   Proposing student-led projects and research initiatives.
+-   Finding ideas for AI/ML and tech-oriented collaborations.
+-   Cross-disciplinary teamwork — combining **AI + Web + IoT + Data + Creativity**.
+-   A platform for open-source sharing and peer-to-peer mentoring.
 
------
+---
 
 ## 🧩 Repository Structure
-
 ```
 collab-with-us/
 │
-├── README.md           # Overview and collaboration guide
-├── CONTRIBUTING.md     # Step-by-step contribution process
-├── PROJECTS/           # Folder for student project proposals
-│   └── example_project.md
-├── guidelines/         # Fork, clone, PR submission steps
-├── CODE_OF_CONDUCT.md  # Behavior and ethics standards
-├── LICENSE             # (MIT / Apache 2.0)
+├── README.md # Overview and collaboration guide
+├── CONTRIBUTING.md # Step-by-step contribution process
+├── PROJECTS/ # Folder for student project proposals
+│ └── example_project.md
+├── guidelines/ # Fork, clone, PR submission steps
+├── CODE_OF_CONDUCT.md # Behavior and ethics standards
+├── LICENSE # (MIT / Apache 2.0)
 └── .github/
-    └── ISSUE_TEMPLATE/ # Templates for ideas or bug reports
+└── ISSUE_TEMPLATE/ # Templates for ideas or bug reports
 ```
 
------
+---
 
-## 👩‍💻 How to Contribute
+## 👩‍💻 How to Propose a Project
 
-1. We use GitHub Issues to track all new project proposals. It's the simplest way to get your idea on our board.
-2. Go to the [Issues] tab at the top of this repository.
-3. Click the "New issue" button.
-4. Choose the "Project Proposal" template and click "Get started."
-5. Fill in the template with your project details (Problem, Tech Stack, Team Members Needed, etc.).
-6. Click "Submit new issue".
-7. Your idea is now on the board for others to see and discuss!
+We use **GitHub Issues** to track all new project proposals. It's the simplest way to get your idea on our board.
 
-_Please note: This repository is a community board and may not be monitored daily by tech leads. The goal is to connect students with each other._
+1.  Go to the **[Issues]** tab at the top of this repository.
+2.  Click the **"New issue"** button.
+3.  Choose the **"Project Proposal"** template and click "Get started."
+4.  Fill in the template with your project details (Problem, Tech Stack, Team Members Needed, etc.).
+5.  Click **"Submit new issue"**.
 
------
+Your idea is now on the board for others to see and discuss!
+
+*Please note: This repository is a community board and may not be monitored daily. The goal is to connect students with each other. This process submits your idea, not a formal request for review.*
+
+---
 
 ## 🧠 Project Domains
 
 We encourage proposals in (but not limited to) these domains:
 
-### 🤖 Machine Learning & Deep Learning
+-   🤖 **Machine Learning & Deep Learning**
+-   🧬 **Generative AI** (LLMs, Diffusion, Prompt Engineering)
+-   🌐 **Web + AI Fusion** (chatbots, recommendation engines, RAG systems)
+-   ☁️ **Cloud + AI** (AWS, GCP, Azure integrations)
+-   🛰️ **Edge AI & IoT Intelligence**
+-   🧮 **Data Science, Analytics, and Visualization**
+-   🕹️ **AI in Games / AR / VR / Robotics**
 
-### 🧬 Generative AI (LLMs, Diffusion, Prompt Engineering)
+---
 
-### 🌐 Web + AI Fusion (chatbots, recommendation engines, RAG systems)
+## 🏅 Project Showcasing
 
-### ☁️ Cloud + AI (AWS, GCP, Azure integrations)
+We encourage you to share your completed projects! Teams who post their finished work in an Issue **may** be given a shout-out on our social media, time and resources permitting. This is a community-driven space, not a formal competition.
 
-### 🛰️ Edge AI & IoT Intelligence
+---
 
-### 🧮 Data Science, Analytics, and Visualization
+## 🧭 Community Guidelines
 
-### 🕹️ AI in Games / AR / VR / Robotics
+We want this to be a welcoming space. Please read our `CODE_OF_CONDUCT.md` to understand our community expectations for positive and respectful collaboration.
 
------
+---
 
-## 🏅 Recognition
+## 📜 License & Disclaimer
 
-Outstanding projects that are successfully developed and presented by students may be featured on our official RAIT ACM SIGAI social media channels and website.
+This repository is licensed under the **MIT License**.
 
-Recognition is based on the completed project, not just the proposal here.
------
+**This is a student-run, peer-to-peer community space. It is not an official platform of, nor is it affiliated with, Ramrao Adik Institute of Technology (RAIT), ACM, ACM India, or any other formal organization. All content, projects, and discussions are posted by and for students. Use of this repository is at your own risk, and the maintainers assume no liability for the content or interactions within.**
 
-## 🧭 Code of Conduct
-
-Please read our `CODE_OF_CONDUCT.md` to help us maintain a positive, inclusive community.
-Respect collaboration, curiosity, and kindness.
-
------
-
-## 📜 License
-
-This repository is licensed under the **MIT License** — you’re free to use and modify with proper credit.
-
------
+---
 
 ## 📢 Stay Connected
 
-  - 🌐 **RAIT ACM SIGAI Website:** `rait-sigai.acm.org`
-  - 📸 **Follow us on Instagram:** `https://www.instagram.com/raitacm.sigai/`
-  - 💼 **LinkedIn:** RAIT ACM SIGAI Student Chapter `https://www.linkedin.com/company/rait-acm-sigai-chapter/`
+-   🌐 **RAIT ACM SIGAI Website:** `rait-sigai.acm.org`
+-   📸 **Follow us on Instagram:** `https://www.instagram.com/raitacm.sigai/`
+-   💼 **LinkedIn:** RAIT ACM SIGAI Student Chapter `https://www.linkedin.com/company/rait-acm-sigai-chapter/`
 
------
+---
 
-🎓 Maintained by
+🎓 A community space for the
 **RAIT ACM SIGAI STUDENT CHAPTER**
 *Empowering students to explore, innovate, and lead in AI.*
 
-⭐ Star this repo if you believe in open collaboration at RAIT\!
+⭐ Star this repo if you believe in open collaboration at RAIT!
