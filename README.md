@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frait-sigai.acm.org%2F&psig=AOvVaw38TM5kHavPgoS4fypK8bz6&ust=1761565557026000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjtwpvlwZADFQAAAAAdAAAAABAE" alt="RAIT ACM SIGAI Logo" align="right" width="120" />
+<img src="assets/sigai-logo.png" align="right" width="120" />
 
 # 🤝 Collab With Us — RAIT ACM SIGAI STUDENT CHAPTER
 
